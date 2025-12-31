@@ -37,7 +37,7 @@
 ### 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-jha-b2476b311/)
-[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/divyanshu_691/])
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/divyanshu_691)
 [![Email me](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:divjha.cloud@gmail.com)
 
 
