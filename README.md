@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=divyanshuj91&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshuj91" />
 </p>
 
-> I am a passionate **Full Stack Developer** / **Student** (choose one) based in Kolkata . I enjoy building things that live on the internet and solving complex problems.
+> I am a passionate **Full Stack Developer** / **Student**  based in Kolkata . I enjoy building things that live on the internet and solving complex problems.
 
 ---
 
