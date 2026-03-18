@@ -1,43 +1,41 @@
-# Hi there, I'm Divyanshu 👋
+# Hello 👋, I'm Divyanshu Jha
+
+I am a passionate Full Stack Developer | Student | Aspiring Game Developer interested in Cybersecurity based in Kolkata . I enjoy building things that live on the internet and solving complex problems.
+
+## Contact Me
+<p><a href="https://www.linkedin.com/in/divyanshu-jha-b2476b311/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/Divyanshhuvro" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://www.youtube.com/@divislame" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.instagram.com/divyrmhu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+
+## Skills
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=divyanshuj91&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshuj91" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c++" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 </p>
 
-> I am a passionate **Full Stack Developer** / **Student**  based in Kolkata . I enjoy building things that live on the internet and solving complex problems.
+## Projects
+
+### Megzo! Shop
+
+A full-featured e-commerce web application built with a modern frontend and a robust Node.js backend.
+
+[View Project](https://github.com/divyanshuj91/megzo-project)
 
 ---
 
-### 🛠 My Tech Stack
+## GitHub Stats
 
-#### 🌐 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=divyanshuj91&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-#### 💻 Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuj91&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
-#### ⚙️ Backend Development & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### ☁️ DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
----
-
-### 📊 GitHub Stats
-
-
-
-### 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-jha-b2476b311/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/divyanshu_691)
-[![Email me](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:divjha.cloud@gmail.com)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuj91&theme=dark" alt="GitHub Streak" />
 
