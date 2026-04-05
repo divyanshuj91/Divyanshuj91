@@ -29,6 +29,7 @@ I am a passionate Full Stack Developer | Student | Aspiring Game Developer inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="ejs" width="40" height="40"/>&nbsp;
 </p>
 
 
@@ -49,4 +50,9 @@ A full-featured e-commerce web application built with a modern frontend and a ro
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuj91&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuj91&theme=dark" alt="GitHub Streak" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshuj91&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
 
