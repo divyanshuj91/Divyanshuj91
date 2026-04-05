@@ -45,10 +45,6 @@ A full-featured e-commerce web application built with a modern frontend and a ro
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshuj91&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuj91&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuj91&theme=dark" alt="GitHub Streak" />
 
 ## GitHub Activity Graph
