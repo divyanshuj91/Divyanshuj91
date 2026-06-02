@@ -41,6 +41,11 @@ A full-featured e-commerce web application built with a modern frontend and a ro
 
 [View Project](https://github.com/divyanshuj91/megzo-project)
 
+###Vault-me
+Vaultme is a secure, full-stack, and local-first zero-knowledge password manager that performs client-side AES-256 encryption to store and manage credentials, backed by Argon2id authentication and automated security auditing.
+[View Project](https://github.com/divyanshuj91/Vault-me)
+[View Product](https://vault-me.vercel.app/)
+
 ---
 
 ## GitHub Stats
