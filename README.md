@@ -53,6 +53,23 @@ Vaultme is a secure, full-stack, and local-first zero-knowledge password manager
 
 ---
 
+### Stober
+
+Stober is a real-time deepfake detector for browser video calls. It runs privacy-first on-device checks (blink detection, lip-sync mismatch, rPPG pulse), sends only compact feature vectors (no raw frames/audio) to a backend scorer, and displays a live trust score with reason tags to flag possible forged streams.
+
+[View Project](https://github.com/divyanshuj91/Stober)
+
+---
+
+### Paendeo
+
+
+A cute lightweight desktop pet featuring a Panda with physics and cute animations.
+
+[View Project](https://github.com/divyanshuj91/Paendeo)
+
+---
+
 ## GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuj91&theme=dark" alt="GitHub Streak" />
