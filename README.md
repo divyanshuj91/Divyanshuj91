@@ -97,20 +97,6 @@ An advanced, privacy-first detector for browser video calls that analyzes live s
 
 <br/>
 
-#### **Megzo! Shop** — *Scalable E-Commerce Platform*
-A full-featured digital storefront application built on a modern, robust architectural foundation for scalable web transactions.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Node.js Backend, Modern Frontend Frameworks |
-| **Scale** | Transactional architecture designed to handle complex relational data. |
-| **Performance** | Optimized for high-throughput product serving and asynchronous state management. |
-| **Security** | Secure session handling, robust API endpoints, and transactional integrity. |
-| **Impact** | Delivers a seamless, high-performance digital shopping experience. |
-| **Repository** | [View Source Code](https://github.com/divyanshuj91/megzo-project) |
-
-*Highlights full-stack product engineering capabilities, from backend API design to responsive user interfaces.*
-
 <br/>
 
 #### **Paendeo** — *Interactive Physics Engine*
