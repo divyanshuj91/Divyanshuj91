@@ -63,57 +63,6 @@ Whether engineering backend architectures, participating in high-stakes hackatho
 
 </div>
 
-### Featured Projects
-
-#### **Vault-me** — *Zero-Knowledge Cryptographic Vault*
-A secure, full-stack, and local-first zero-knowledge password manager engineered to protect digital credentials through advanced client-side encryption.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Full-Stack Web, AES-256 Encryption, Argon2id |
-| **Scale** | Local-first architecture designed for decentralized, secure state management. |
-| **Performance** | Optimized client-side cryptographic hashing with zero backend latency overhead. |
-| **Security** | Zero-knowledge architecture, automated security auditing, local encryption. |
-| **Impact** | Ensures absolute data privacy and cryptographic resilience against data breaches. |
-| **Links** | [View Source Code](https://github.com/divyanshuj91/Vault-me) \| [Live Product](https://vault-me.vercel.app/) |
-
-*Demonstrates enterprise-grade security engineering, focusing on privacy-first infrastructure and secure authentication mechanisms.*
-
-<br/>
-
-#### **Stober** — *Real-Time Deepfake Detection System*
-An advanced, privacy-first detector for browser video calls that analyzes live streams to flag potential forged media and identity spoofing.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Machine Learning, Computer Vision, WebRTC |
-| **Scale** | Processes real-time video streams with distributed backend scoring mechanisms. |
-| **Performance** | Low-latency on-device feature extraction (blink detection, lip-sync, rPPG pulse). |
-| **Security** | Privacy-centric; transmits only compact feature vectors without exposing raw frames. |
-| **Impact** | Mitigates identity fraud in live communications via dynamic trust scoring and reason tags. |
-| **Repository** | [View Source Code](https://github.com/divyanshuj91/Stober) |
-
-*Merges AI/ML capabilities with cybersecurity principles to create a robust defense against modern digital impersonation.*
-
-<br/>
-
-<br/>
-
-#### **Paendeo** — *Interactive Physics Engine*
-A lightweight, physics-driven desktop application featuring complex interactive animations and localized execution.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Desktop GUI Frameworks, Custom Physics Logic |
-| **Scale** | Standalone, lightweight execution environment. |
-| **Performance** | Highly optimized rendering loop for minimal CPU overhead. |
-| **Security** | Sandboxed desktop execution with zero external network dependencies. |
-| **Impact** | Demonstrates applied mathematics, advanced application physics, and interactive UI/UX design. |
-| **Repository** | [View Source Code](https://github.com/divyanshuj91/Paendeo) |
-
-*Explores game development mechanics and system-level graphics rendering within a confined desktop ecosystem.*
-
----
 
 ## GitHub Stats
 
