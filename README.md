@@ -17,7 +17,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=divyanshuj91&label=PROFILE+VIEWS&color=5a189a&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/divyanshuj91?label=FOLLOWERS&style=for-the-badge&color=7b2cbf" alt="Followers" />
+
 <img src="https://img.shields.io/github/stars/divyanshuj91?label=STARS&style=for-the-badge&color=9d4edd" alt="Stars" />
 
 </div>
