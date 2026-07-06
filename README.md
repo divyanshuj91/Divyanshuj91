@@ -66,7 +66,7 @@ Whether engineering backend architectures, participating in high-stakes hackatho
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuj91&theme=dark" alt="GitHub Streak" />
+
 
 ## GitHub Activity Graph
 
