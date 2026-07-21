@@ -1,28 +1,5 @@
-<div align="center">
+# Hello, Divyanshu this side !!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10002b,240046,3c096c,5a189a,7b2cbf,9d4edd&height=250&section=header&text=Divyanshu%20Jha&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Computer%20Science%20Undergrad&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-
-<br/>
-
-[![Academic](https://img.shields.io/badge/Academic-JIS_University-240046?style=for-the-badge&logo=academia&logoColor=9D4EDD)](#)
-[![Location](https://img.shields.io/badge/Location-Kolkata,_India-240046?style=for-the-badge&logo=googlemaps&logoColor=9D4EDD)](#)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-240046?style=for-the-badge&logo=linkedin&logoColor=9D4EDD)](https://www.linkedin.com/in/divyanshu-jha-b2476b311/)
-[![Email](https://img.shields.io/badge/Email-Contact-240046?style=for-the-badge&logo=gmail&logoColor=9D4EDD)](divjha65@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-240046?style=for-the-badge&logo=github&logoColor=9D4EDD)](https://github.com/divyanshuj91)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-240046?style=for-the-badge&logo=instagram&logoColor=9D4EDD)](https://instagram.com/divyrmhu)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=divyanshuj91&label=PROFILE+VIEWS&color=5a189a&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/stars/divyanshuj91?label=STARS&style=for-the-badge&color=9d4edd" alt="Stars" />
-
-</div>
-
-<br/>
 
 ###  About Me
 
@@ -63,5 +40,14 @@ Whether engineering backend architectures, participating in high-stakes hackatho
 
 </div>
 
+## My Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-240046?style=for-the-badge&logo=linkedin&logoColor=9D4EDD)](https://www.linkedin.com/in/divyanshu-jha-b2476b311/)
+[![Email](https://img.shields.io/badge/Email-Contact-240046?style=for-the-badge&logo=gmail&logoColor=9D4EDD)](divjha65@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-240046?style=for-the-badge&logo=github&logoColor=9D4EDD)](https://github.com/divyanshuj91)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-240046?style=for-the-badge&logo=instagram&logoColor=9D4EDD)](https://instagram.com/divyrmhu)
+
+---
+
+### Github Stats
 <a href="http://www.github.com/divyanshuj91"><img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuj91&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
