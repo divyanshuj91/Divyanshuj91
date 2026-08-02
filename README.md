@@ -3,7 +3,7 @@
 
 ###  About Me
 
-I am a full-stack developer and engineering student at JIS University, driven by a rigorous approach to complex problem-solving. Based in Kolkata, I specialize in architecting scalable digital experiences and robust web applications. My technical pursuits bridge the gap between interactive game development mechanics and deep-level cybersecurity, where I actively explore system integrity and secure protocols within the local OWASP community. 
+I am a full-stack developer and engineering student at JIS University, driven by a rigorous approach to complex problem-solving. Based in Kolkata, I specialize in architecting scalable digital experiences and robust web applications. My technical pursuits bridge the gap between interactive game development mechanics and deep-level cybersecurity, where I actively explore system integrity and secure protocols within the local OWASP chapter of JIS UNIVERSITY. 
 
 Whether engineering backend architectures, participating in high-stakes hackathons, or optimizing core algorithms, I am passionate about building innovative, high-performance solutions that thrive on the internet.
 
